@@ -1,0 +1,29 @@
+body{
+    background:rgb(134, 209, 134);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.assignment {
+    display: flex; 
+    padding: 20px;
+    background:rgb(82, 165, 82);
+    margin: 10px;
+
+}
+
+.assignment img{ 
+    padding:10 px; 
+    width: 370px;
+    height: 400px; 
+    margin: 10px; 
+
+}
+
+h1{
+    color:black 
+   
+}
+h2 {
+    color:black
+}
